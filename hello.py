@@ -12,4 +12,5 @@ print("OK")
 
 lst = 5
 for i in range(lst):
+    print(i) 
     print(i)
